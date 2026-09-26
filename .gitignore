@@ -1,0 +1,8 @@
+*.cws
+*.cdb
+*.pdb
+*.obj
+*.lib
+*.exe
+*.dll
+cvibuild.*
